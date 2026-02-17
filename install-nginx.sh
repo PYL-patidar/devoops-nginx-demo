@@ -2,7 +2,7 @@
 
 # this is nginx installion script 
 # Here is the command for that
-echo "Update system firstly"
+echo "============= INSTALLING NGINX==========="
 
 sudo apt-get update -y
 
